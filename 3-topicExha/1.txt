@@ -1,0 +1,8 @@
+routing key ----topic name should be words and seperated with dots
+
+routing with patterns
+
+
+order.* {{* means one word}}
+
+order.# {{#--any number of words seperated with .}}
