@@ -1,0 +1,17 @@
+queqe are temporary
+
+once work done delete queque
+
+no routing key
+
+procuser send data to exchange
+
+
+exchange send data to all queqe
+
+create copies of messages and send to all que
+
+works as broadcast
+
+ex. mulitplayer online game
+
